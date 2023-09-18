@@ -21,7 +21,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Bypass6">「 Google Me 」</a>
     <br>
-    「 Hi I'm Bypass6, a 7th grader whos dedicated to bypassing everthing 」
+    「 Hi I'm Bypass6 a "profesional" chromebook exploiter」
     <br>
     <br>
   </samp>
